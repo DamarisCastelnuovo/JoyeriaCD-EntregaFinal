@@ -82,7 +82,19 @@
     margin-right: 400px;
   }
 
-  
+  .cajita {
+    width: 100%;
+  }
+
+  .cajita-img {
+    max-width: 100%;
+  }
+
+  .cajita-im+g{
+    width: 900px; 
+    height:400px;
+
+  }
   
 
   /*Footer*/
@@ -387,6 +399,7 @@
   }
 .form-control{
 margin-left: 10px;
+width: 100%;
 }
 
 
@@ -435,7 +448,7 @@ margin-left: 10px;
     .cont-formulario{   
         height: 50%;
         justify-content: space-between;
-        
+        width: 100%;
         margin-right: 250px;
     }
   .ing{
