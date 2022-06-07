@@ -378,6 +378,19 @@
   
   
   /*Html contactos*/
+
+  @media (min-width: 300px) {
+    .form-control{
+      margin-right: 0px;
+  
+     }
+  }
+.form-control{
+margin-left: 10px;
+}
+
+
+
   .formulario{
     font-style: normal;
     font-size: 20px;
